@@ -1,0 +1,9 @@
+h1 {color: purple}
+h2 {background-image: linear-gradient(to right, lightpink, purple, blue   ) ;
+}
+#abc {color: green}
+.tablestyle {background-color: brown; color: white; border: 2px solid yellow;
+}
+body{background-image: linear-gradient(red blue);}
+img{width: 70%;border-radius:  50%;}
+body{align-items: center;}
